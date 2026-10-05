@@ -61,4 +61,4 @@ Location: Europe (Online) for online part of tournament, Moscow (Russia) for LAN
 # Important
 
 - Registered teams will have 72 hours to complete the payment to secure their spot. If teams failed to complete payment in time, slot will be forwarded to the next registered team. 
-- Rigistration deadline - 25th of October 2026
+- Registration deadline - 25th of October 2026
